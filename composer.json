@@ -1,0 +1,16 @@
+{
+    "name": "abdulrahman/oop-challenge",
+    "autoload": {
+        "psr-4": {
+            "Abdulrahman\\OopChallenge\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AbdulrahmanMasoud",
+            "email": "abdulrahman.masoud.official@gmail.com"
+        }
+    ],
+    "require-dev": {
+    }
+}
