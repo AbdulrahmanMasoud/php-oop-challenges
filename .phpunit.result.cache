@@ -1,0 +1,1 @@
+{"version":1,"defects":{"BankAccountTest::test_set_customer_name":3},"times":{"BankAccountTest::test_first":0.001,"BankAccountTest::test_set_customer_name":0.002}}
